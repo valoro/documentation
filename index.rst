@@ -19,7 +19,6 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :glob:
 
    overview
    How it works   
