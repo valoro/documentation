@@ -36,11 +36,15 @@ Contents
    Hyperledger Fabric
    Ethereum
    R3 Corda
-   What's next
+   
    
 
 What's with the name?
 ----------------------
 
 About Valoro name
+
+
+What's next
+----------------------
 
