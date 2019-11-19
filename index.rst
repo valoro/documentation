@@ -1,7 +1,7 @@
 Welcome to Valoro documentation!
 =======================================
 
-What is Valoro
+about Valoro
 -----------------
 
 In a simple words, we introduce Valoro as The WordPress of Blockchain. Valoro, an online blockchain platform that allow
