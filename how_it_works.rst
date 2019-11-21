@@ -1,3 +1,6 @@
+How it works
+============
+
 Pre-defined contract
 --------------------
 
