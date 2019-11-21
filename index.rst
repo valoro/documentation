@@ -7,7 +7,7 @@ Valoro, an online blockchain platform that allow business users with absolutely 
 .. toctree::
    :maxdepth: 1
    
-   about_Valoro
+   about_valoro
    overview
    how_it_works   
    settings
