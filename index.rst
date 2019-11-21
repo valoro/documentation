@@ -1,29 +1,17 @@
-Welcome to Valoro documentation!
-================================
+A Blockchain Platform for the Enterprise
+========================================
 
-In a simple words, we introduce Valoro as The WordPress of Blockchain. Valoro, an online blockchain platform that allow
-business users with absolutely NO coding skills to  create   their   own   blockchain   applications.
+In a simple words, we introduce Valoro as The WordPress of Blockchain.
+Valoro, an online blockchain platform that allow business users with absolutely NO coding skills to  create   their   own   blockchain   applications
 
 .. toctree::
    :maxdepth: 1
 
-   aboutValoro
    overview
-   How it works   
+   how_it_works   
    settings
-   Integration
-   Node JS
-   Python
-   PHP
-   Valoro Marketplace for 
-   Blockchain developer
-   Web developer
-   Web designer
-   Business owner
-   Supported platforms
-   Hyperledger Fabric
-   Ethereum
-   R3 Corda
-   
-   
+   integration
+   node_js
+   python
+   php
 
