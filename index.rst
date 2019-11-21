@@ -8,7 +8,6 @@ Valoro, an online blockchain platform that allow business users with absolutely 
    :maxdepth: 1
    
    about_valoro
-   overview
    how_it_works   
    settings
    integration
