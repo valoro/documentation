@@ -9,8 +9,8 @@ Valoro, It affects the world of technology today by being an online blockchain p
 who's valoro for 
 ----------------
 
-business owners
-web developers
+business owners ,
+web developers ,
 web designers 
 
 How to sign in 
