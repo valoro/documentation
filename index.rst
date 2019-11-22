@@ -7,4 +7,9 @@ Welcome to Valoro documentation
    about_valoro
    related_concepts
    gettingstarted
+   supported_languages
+   features
+   supported_platforms
+   releases
+   faqs
    
