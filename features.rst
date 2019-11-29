@@ -1,12 +1,15 @@
 features 
 ========
 
-Pre-defined contract
+fast production of applications
 --------------------
 
 The application contains several smart contracts, you can choose from
 
-Create your own application
+no demand for coding skills
 ---------------------------
 
 You have the ability to integrate your own application using valoro platform
+
+ease of integration
+---------------------------
