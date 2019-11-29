@@ -9,6 +9,7 @@ Welcome to Valoro documentation
    features
    gettingstarted
    valoro_addedvalues
+   scenarios
    supported_languages
    features
    supported_platforms
