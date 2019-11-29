@@ -6,6 +6,7 @@ Welcome to Valoro documentation
    
    about_valoro
    related_concepts
+   features
    gettingstarted
    supported_languages
    features
