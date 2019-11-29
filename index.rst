@@ -8,6 +8,7 @@ Welcome to Valoro documentation
    related_concepts
    features
    gettingstarted
+   valoro_addedvalues
    supported_languages
    features
    supported_platforms
