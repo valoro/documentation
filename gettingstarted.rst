@@ -1,14 +1,11 @@
 Getting Started
 ===============
 
-First Step
+pre-requists
 ----------
 
 Register for start
 
-Second step
+options of registeration
 -----------
  
-
-Third step
-----------
