@@ -11,7 +11,6 @@ Welcome to Valoro documentation
    valoro_addedvalues
    scenarios
    supported_languages
-   features
    supported_platforms
    releases
    faqs
