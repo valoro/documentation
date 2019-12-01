@@ -1,5 +1,5 @@
 Overview 
 ========
 
-Valoro, It affects the world of technology today by being an online blockchain platform 
-that allow business users with absolutely NO coding skills to create their own blockchain applications.
+valoro is a blockchain platform based on hyperledger fabric framework. it provides a new approach to dealing with hyperledger fabric that makes it easer and available 
+every one by providing a way to create blockchain application without coding and with little time and effort
