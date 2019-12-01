@@ -1,6 +1,8 @@
 Welcome to Valoro documentation
 ===============================
 
+.. image:: images/logo.png
+
 .. toctree::
    :maxdepth: 1
    
