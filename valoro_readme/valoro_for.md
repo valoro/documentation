@@ -1,13 +1,12 @@
-# Who's Valoro for 
+# who uses Valoro
 
-valoro is for any one who is interested in blockchain technology but our main focus is for
+valoro has wide variety of tools making it desirable to every one interested in blockchain applications, but we aim to introduce valoro to 
 
 ## Business owners
-valoro provides business users that have absolutely no coding skills and little knowledge of blockchain concepts the apportunity to participate in creating their own applications
-by an easy to use interface 
+usually business users are not included in the process of creating blockchain applications because of all technical details that requires much time to be understood, but with valoro, business users would be able to create their own applications in no time by a simple process of drag and drop.
+
 
 ## Web developers
-Valoro will save the developers all the time and effort required to build applications on hyperledger fabric by providing them with configured 
-network and pre defined contracts. it also provides an easy way to facilitate developing a blockchain application from scratch
+valoro will save web developers a lot of time and effort spent in configuring the networks and preparing the environment to begin developing through it. it will not only provide support for blockchain developers but it will be an added value to all web developers by providing them with an approach to integrate their backend with smart contracts without going through a lot of details of the smart contracts
 
 ## Web designers
