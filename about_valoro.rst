@@ -6,5 +6,4 @@ About Valoro
    
    overview
    valoro_readme/valoro_for.md  
-   how_to_register
  
