@@ -1,7 +1,7 @@
 Welcome to Valoro documentation
 ===============================
 
-.. image:: https://ibb.co/Gx5rNf2
+.. image:: logo.png
 
 .. toctree::
    :maxdepth: 1
