@@ -1,9 +1,12 @@
 Welcome to Valoro documentation
 ===============================
 
-.. image:: logo.png
-   :align: left
+.. raw:: html
 
+   <br/><br/>
+   <iframe width="9" height="315" src= "logo.png" frameborder="0" allowfullscreen></iframe>
+   <br/><br/>
+   
 .. toctree::
    :maxdepth: 1
    
