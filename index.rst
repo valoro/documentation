@@ -2,6 +2,7 @@ Welcome to Valoro documentation
 ===============================
 
 .. image:: logo.png
+   :align: left
 
 .. toctree::
    :maxdepth: 1
